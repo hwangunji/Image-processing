@@ -1,2 +1,2 @@
 # Image-processing
-영상처리
+OpenCV,C, C++, 영상처리
